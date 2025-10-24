@@ -1,4 +1,4 @@
-# PerPilot-v2
+# PerPilot
 
 ## 📋 Project Overview
 
