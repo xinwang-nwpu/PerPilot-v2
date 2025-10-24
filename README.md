@@ -66,3 +66,6 @@ Our evaluations demonstrate that PerPilot:
 PerPilot represents a significant step forward in creating more intuitive and user-centric mobile agents. By combining memory-based retrieval with advanced reasoning capabilities, our framework paves the way for more natural human-machine interaction in mobile environments.
 
 
+
+
+
