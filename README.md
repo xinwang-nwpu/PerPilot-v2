@@ -49,7 +49,7 @@ PerPilot employs two complementary approaches for personalized task completion:
 | **Memory-based Retrieval**      | Leverages historical user data to provide contextually relevant responses |
 | **Reasoning-based Exploration** | Uses LLM-powered reasoning to handle novel or ambiguous instructions      |
 
-Fully automatic execution and verification of instructions
+Fully automatic execution and verification of instructions(new)
 
 Task instructions can be added very easily
 
